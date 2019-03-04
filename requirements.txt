@@ -1,0 +1,7 @@
+Flask >= 0.10
+flask-sqlalchemy >= 2.3
+flask-login >= 0.4
+rauth >= 0.7
+passlib >= 1.7
+pymysql >= 0.8
+flask-mail
